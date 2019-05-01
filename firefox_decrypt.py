@@ -987,8 +987,8 @@ def main():
     if args.export_pass:
         # List of compatibility modes for username prefixes
         compat = {
-            "username": "username: ",
-            "browserpass": "login: ",
+            "username": "username: ",caryn.april@gmail.com 
+            "browserpass": "login: ",Luther11
         }
 
         username_prefix = compat.get(args.pass_compat, "")
